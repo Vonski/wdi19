@@ -2,7 +2,9 @@
 Pliki potrzebne do wykonania warsztatu znajdują się na **masterze**. Należy pobrać je, zainstalować requirementsy i włączyć jupyter notebook.
 
 Oprócz tego należy pobrać dane spod tego adresu:
+
 https://drive.google.com/file/d/16WA5GYh9OYmDhkygWw7JKwsRVZ5oZKNp/view?usp=sharing
+
 Archiwum trzeba wypakować w folderze *data*.
 
 ## References
